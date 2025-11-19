@@ -1,0 +1,8 @@
+# О перераспределении полномочий по предоставлению земельных участков, государственная собственность на которые не разграничена на территории города Элисты Республики Калмыкия
+Document type: Закон
+Number: 103-VII-З
+Date signed: 2025-11-18
+Publication date: 2025-11-19
+Publication number: 0800202511190001
+Signing body: Республика Калмыкия
+Official publication page: http://publication.pravo.gov.ru/Document/View/0800202511190001
