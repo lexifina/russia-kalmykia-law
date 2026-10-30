@@ -1,0 +1,703 @@
+{
+ "country": "RU-KL",
+ "acts": [
+  {
+   "slug": "zakony-2014",
+   "short": "Законы 2014",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2014 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2014-11-27",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "8b044629af91d26aef01d3990a79a825a03ba7445b694ad0a190bc7bc50cf0c5"
+    },
+    {
+     "from": "2014-12-19",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "05ab0a6f6ea3e006fbb74e494edac417a95dfce6b4d6405bbf3959a307441e32"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2015",
+   "short": "Законы 2015",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2015 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2015-03-06",
+     "units": 1,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "e154ffec82ca33f74fc397ddf3973e2e53d62e3128f54c9ecf6b13938d59163a"
+    },
+    {
+     "from": "2015-03-10",
+     "units": 2,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "316c2fd42f0d1b2c354ff32fadb05edcd2f1850fa0029e8431d30473b9ca36a6"
+    },
+    {
+     "from": "2015-03-16",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "6dbbf425411981028d3110819e1b4145d872efcfad9c11bee1379545fb2f1041"
+    },
+    {
+     "from": "2015-05-18",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "a137b9e453450e17008e35a171289db6a9602084c4608f19c13c0f9d9aa29a15"
+    },
+    {
+     "from": "2015-06-17",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "9fd754c0cdc670250f080376fbd9b8f409899aa1c8763c74a62d1a0fa050e022"
+    },
+    {
+     "from": "2015-07-22",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "617b1ad47627abb02b0f195150c70a04281035abc909db1b55c810bb633603f4"
+    },
+    {
+     "from": "2015-11-06",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "9ceafd49ac5201ed59495e5457f4d6e35fd80c6cf866b5d6a335c6e38101650c"
+    },
+    {
+     "from": "2015-11-26",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "ce89188d4a1143eae4d119839c0b820b6bf4a3fca56df58b3e75a60efddbdb55"
+    },
+    {
+     "from": "2015-12-29",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "1103ddfb6391b77602301f0fd0941cbad3adbfecf2faa04b79b85661acba0e1f"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2016",
+   "short": "Законы 2016",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2016 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2016-03-01",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "5cdf84fe3de84bcc5881aef13049c26c3500a045f7ae4be44d59326668f75917"
+    },
+    {
+     "from": "2016-04-19",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "7745b9c69c8647205f6c6bf089b2856bffa242d3e28e688c00181182a9aafea4"
+    },
+    {
+     "from": "2016-07-07",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "f500d04b481b383143e477c8f9416a5c6f6948db150aa70eeee622e5b3b8daec"
+    },
+    {
+     "from": "2016-07-08",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "62bf70e3240c25ce67bf872188487f46c95b7140b9b34a8f53e3791d42a137a5"
+    },
+    {
+     "from": "2016-09-19",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "c909f4757dc19e11a638fe30ca7e65efe44d555ae9d60d1017a090e06b8ea40f"
+    },
+    {
+     "from": "2016-11-25",
+     "units": 43,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "4b133d89ff6124a873e5272af486bfc841749f376877e084d51a027420b1b1ab"
+    },
+    {
+     "from": "2016-11-28",
+     "units": 44,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "0684238a3437656fe30816dec2b50952fbb01ce6f88acee9f8cc2ceee7cb0366"
+    },
+    {
+     "from": "2016-12-22",
+     "units": 54,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "aa5b9304722bbc4b5d32e2c381ca4be48415bc73d6d269871eb163b015e7d301"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2017",
+   "short": "Законы 2017",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2017 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2017-03-09",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "3af0ea4abc95a98685c62aff6a7087cac4aca300f64ad0f55ea72192b448702e"
+    },
+    {
+     "from": "2017-05-15",
+     "units": 17,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "76fc9f47053255262b89aec52ee0374ef8c025c6b6b71f5823fcca8f24c997b0"
+    },
+    {
+     "from": "2017-07-17",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "aa9ba88a69c96662927016dfee86782ddbfb320c6dc38d4585ff774c6613ee7e"
+    },
+    {
+     "from": "2017-10-09",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "f807dd3524d6bda23e57a512f071a798b1b7d69bafd86fc119f16f02586a8a91"
+    },
+    {
+     "from": "2017-11-24",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "beab48198c857d71d663722759db715928301c324c5c30e0b468db7d88fc59ef"
+    },
+    {
+     "from": "2017-12-28",
+     "units": 53,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "6e2ce05ce5736dbed52f909ca098e13d09a0e7787d6bb9f68d2818633e5e03e9"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2018",
+   "short": "Законы 2018",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2018 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "f19204b230cc151772a6775848f0cd6bd407147152e287db6b6a5d2e520ed366"
+    },
+    {
+     "from": "2018-05-18",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "d98e0aba44280c4178f05118b11f4f35bf9b7ea2e0b01307e320f564fe3a438e"
+    },
+    {
+     "from": "2018-06-09",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "9085261eef3e50debb012126b2a44d22ede03fea16ae9bda0bf8f35a71ff611d"
+    },
+    {
+     "from": "2018-06-21",
+     "units": 19,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "4fd3db7ff45fbc40f5e202617473c8ac2d49631dc0d91c6c3cce287f8ddd2e7e"
+    },
+    {
+     "from": "2018-09-28",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "c43d15bc8289c7100e0b8dd0e4511be3fd879012a46f8c3cbee1a55cbbdc514b"
+    },
+    {
+     "from": "2018-11-30",
+     "units": 37,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "24a76be982a0a3b40806b193c3b3dccaaede3f64f9fa81fc2c75e329547cb93d"
+    },
+    {
+     "from": "2018-12-21",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "4e7f8a901ee10376cecffae20e01ae6dc2996567536f1de8dbaeaf9ff50c1e54"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2019",
+   "short": "Законы 2019",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2019 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2019-02-08",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "745c6ef14600ada8a0b982fdccbed2d76c5beffe753daa575391f041a0a4b2ae"
+    },
+    {
+     "from": "2019-03-29",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "df546dab4562e1982acf22027edb1f3b35af3b6541d370eb9b2486983d8cc048"
+    },
+    {
+     "from": "2019-06-17",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "66ec026fb51f5e2e55c45a9c7bcaa80a876bcc38e6e75803d4b2b5d775d5870f"
+    },
+    {
+     "from": "2019-06-19",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "0994920ccea04bb0cfe40d7b515ea42fd7b522fa517e7d1eb6240510291fd0e2"
+    },
+    {
+     "from": "2019-07-15",
+     "units": 34,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "3ba83980b404ac338a11208bd6e69e91262be7db27ed80ece1940aad547151c2"
+    },
+    {
+     "from": "2019-10-10",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "f2c89e897a872a26bbb01b3a896d13b027553aef5236bb58c7b00bd2f9c18db7"
+    },
+    {
+     "from": "2019-11-22",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "d46abadd4e49986fff8816b6717ff95168a12f4dcdcccff0d8ea2d4fa29acfea"
+    },
+    {
+     "from": "2019-11-25",
+     "units": 49,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "79237a9859979a3a33a47dbd83dded6db62752aa2951d7fec57a53a04480a3bb"
+    },
+    {
+     "from": "2019-12-19",
+     "units": 64,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "275a1ab1dbe967bc1648ca8b1b7c45c38ccc7c2dbb59b7438c42e9a55f307e15"
+    },
+    {
+     "from": "2019-12-20",
+     "units": 65,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "3ab58bc913c6984daafc1c2eae97841ce3e325c90089c7bef0a24bcae53f352a"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2020",
+   "short": "Законы 2020",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2020 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2020-03-06",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "8c51b594a23a991ac43b4b1a4f86c442512db60b573a4a6733fe98cf2883b779"
+    },
+    {
+     "from": "2020-06-11",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "640c0318c4f4f9a40a139784a209810562d1f4ab5ef264fef36765e24fd33ca2"
+    },
+    {
+     "from": "2020-07-30",
+     "units": 30,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "0e5e84bf1c8017e7261c0ea1c0bf6bd29321e55f69283da145a210d5fd9e6356"
+    },
+    {
+     "from": "2020-10-27",
+     "units": 35,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "9f6e642426c1ed29ee9175256d23e6a01629f11b34724df1c3e7454baa874368"
+    },
+    {
+     "from": "2020-11-16",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "69b6df45ba25c4d1f35614e56975b6b41697678f6a2bd9a2f2a615f5d7088508"
+    },
+    {
+     "from": "2020-12-15",
+     "units": 52,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "44c41c323353c20dfc67cea0e9a7ac8ed908798a62c18d016b678d23d0153a0e"
+    },
+    {
+     "from": "2020-12-29",
+     "units": 61,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "a9eecd55733d544f5d881677b9f12c15c7880b4131e90f8a7aa5f9c300425281"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2021",
+   "short": "Законы 2021",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2021 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2021-03-15",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "31cb6f5c365613634b7a479f4b67d62bce423dfa5153032d1639bfca40f35ec4"
+    },
+    {
+     "from": "2021-06-15",
+     "units": 23,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "8387a1ba670d455576c7ce494db8d68fd211f1d03d14d6a9f3fda38bdaf3eccc"
+    },
+    {
+     "from": "2021-08-12",
+     "units": 28,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "d6ea6e59ce0dce08f5e8c9b01b45d1c2eadb65ef0735bb6b8c1624ecd99abd73"
+    },
+    {
+     "from": "2021-11-11",
+     "units": 38,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "6c6812e2157e71ae304e83158c57dbbd093d18e378c4c28d1a0dad222905d371"
+    },
+    {
+     "from": "2021-12-14",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "970cf4bb85372394ec64b98927c86cde08e49c1357f3c732290edcdd9cde6f59"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2022",
+   "short": "Законы 2022",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2022 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2022-03-14",
+     "units": 11,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "703d2c23522ba4c303adb38bf8e0f8d1db5ff2057f8147bc7a7bd098cf7b4101"
+    },
+    {
+     "from": "2022-06-15",
+     "units": 25,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "12e87ef331b35059860869a7df0e6ddd09aed3b6333d30bdcc3b62b75ceecc25"
+    },
+    {
+     "from": "2022-06-17",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "4e40418cbdc74734d8f9047a9f23e3336df392d654e13cd84390d2c410658840"
+    },
+    {
+     "from": "2022-07-25",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "6729c36599cf0fc589c9856f21931c74812606f97ef79fd2deb9658ca4e044d3"
+    },
+    {
+     "from": "2022-10-13",
+     "units": 51,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "4a3c786c396f218641726aa3a0e2bb6df948a5f6b605adf4b9e39710fa5cb042"
+    },
+    {
+     "from": "2022-11-23",
+     "units": 58,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "7be339cc48d864200e3dc57f8db7b058f96f381df2a57debab6e7ab5f9ed0b08"
+    },
+    {
+     "from": "2022-12-20",
+     "units": 67,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "c4fe7268d0a869a67128f0063a679c03286923c774aaf38be730d76d23d4f4a2"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2023",
+   "short": "Законы 2023",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2023 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2023-03-04",
+     "units": 10,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "1731eb51df86e939970de0358caf88a68610cee92941eedba40eb9d61d1f2d36"
+    },
+    {
+     "from": "2023-04-04",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "6b64c46df75a8d2036fabd9b0463b02ab09539858d6569c18e9f3834f8675238"
+    },
+    {
+     "from": "2023-06-14",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "2448370b6b1b677f6f6624e3d5e73c34532319eedf30b72dd0a810aea28fdaf2"
+    },
+    {
+     "from": "2023-11-14",
+     "units": 32,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "f1ac2bdc685bc56b6255828879b6ee8bb0e1a7536dccb071e03017b457a0eb48"
+    },
+    {
+     "from": "2023-11-22",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "775318553195b85e1945ce3d723fd6c54e8b3df8f26f0c1cd6c05ffa0295a563"
+    },
+    {
+     "from": "2023-12-21",
+     "units": 50,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "cc76678158caf7886d2d352a74bf0fc8cc2388f28c4908cbd50c869cd6452ccb"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2024",
+   "short": "Законы 2024",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2024 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2024-03-12",
+     "units": 7,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "9f8f30317ec801f0d4ade88b91c0bc014cb65289b1140e0feb733806c5ad789c"
+    },
+    {
+     "from": "2024-05-03",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "89601968019374a5d3b8b5822d8312eb55287417319bdbc66391d1261f3bc63e"
+    },
+    {
+     "from": "2024-05-30",
+     "units": 13,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "cc70c0e074cdeaf42eac021309d35035a8cdd138a78c4ccba0f4c24624afcf0d"
+    },
+    {
+     "from": "2024-06-13",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "a9a3c220c2a4ecaf31f50fc0ec6460bd726ac0f7cbad2c9491d34ed49f0cc4e3"
+    },
+    {
+     "from": "2024-07-18",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "6440b0c390a37e325c6f469d6af9cd28be229a25e0af7f4edefd14f7c2618ba0"
+    },
+    {
+     "from": "2024-08-28",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "0fc14660e60b88464037674b82b7e817f2af064aa93b2f8df4dbd11ee39b6747"
+    },
+    {
+     "from": "2024-11-05",
+     "units": 22,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "be11aa6e783dfb637835a74ad5f32ae4a0936fd9c947d640e739804e31a3eb3e"
+    },
+    {
+     "from": "2024-11-06",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "ec6e96c560ee02940c0f727da3376ac12cbfc3b36146a46726b9eed32debe6f0"
+    },
+    {
+     "from": "2024-11-12",
+     "units": 27,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "e58a5d3107f9b42cd5115661dcf7ad261b90dbfe3ad1a2653f4eccaee06efb39"
+    },
+    {
+     "from": "2024-11-14",
+     "units": 29,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "4aa2aaacfa8615af0478cf9fa9a0537334256118b105767cf43a81c89059b305"
+    },
+    {
+     "from": "2024-11-25",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "c3a1716dc4d9fb8aad855d5e0efb653be66b292449b905cdaee6862210532d89"
+    },
+    {
+     "from": "2024-12-23",
+     "units": 39,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "8fe55caddeec49197d70fb8065efa1fbabd466a3f47d04cc1cd2e52ab9c9c232"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2025",
+   "short": "Законы 2025",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2025 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2025-02-06",
+     "units": 4,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "2f540321a05335e3a320a4cd22fabc86912ebeb7d72f7060ec7b050665e6d458"
+    },
+    {
+     "from": "2025-03-25",
+     "units": 5,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "dca668d74f5c687bbac6ff624b3228cb7d3c1d1aa32f9f15d91b9178aedda9da"
+    },
+    {
+     "from": "2025-03-31",
+     "units": 15,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "b6643ae9544b2d39aa171682055851f39bcafbc547538665aaa0b43d40bd0b5f"
+    },
+    {
+     "from": "2025-05-05",
+     "units": 18,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "ecf9a98fc52b06fc0e6481801c0710d9fe8ec349841c7f55f028fa3a304ba083"
+    },
+    {
+     "from": "2025-06-27",
+     "units": 26,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "bfd114a0e84173411e449c586a2516d133349e2435dd4807892ab9c15c29a171"
+    },
+    {
+     "from": "2025-07-15",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "cf26cdb81ff5b2754172f8affd45ee8e7b232b786032c4be1cb61fdf7dcf2c04"
+    },
+    {
+     "from": "2025-10-22",
+     "units": 36,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "8fa38d894ec48873e8b740a38907d7f0eb4b6465069f2ad454a7859be72a0eaf"
+    },
+    {
+     "from": "2025-11-19",
+     "units": 41,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "43d685d99e33cfe9bafdc61bedcf7581fb6571816343daea594b90d6d2586e0a"
+    },
+    {
+     "from": "2025-11-27",
+     "units": 42,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "d8f3b2facca14043411a62df96e0513495449df3d5c72140da60939080293e40"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 46,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "8ee6e5abe45c0c3da7e91470a91bdf45ba6a559a0d8a0f6f493da88ed0492bdf"
+    },
+    {
+     "from": "2025-12-23",
+     "units": 47,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "3ffaa122ea5cafaa2843d563ebb4b3801d5c7c9c67e199c52d5fb7c1625291f4"
+    },
+    {
+     "from": "2025-12-30",
+     "units": 48,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "f68c598daf17ede0882df688f2fdeb42632ede534a4b28a8515376903a7f4e70"
+    }
+   ]
+  },
+  {
+   "slug": "zakony-2026",
+   "short": "Законы 2026",
+   "title": "Republic of Kalmykia: catalogue of the laws published in 2026 (facts only, no law text)",
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "versions": [
+    {
+     "from": "2026-03-02",
+     "units": 3,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "7f45efa6f2fbd72582c2f6b52d9c69d989b11f954c8e3427d7a789bdca5d66c6"
+    },
+    {
+     "from": "2026-04-01",
+     "units": 8,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "f47ce2a66249f3e681e1e5ad6c3e8b641bd5e1157cff5aec39118d017838e969"
+    },
+    {
+     "from": "2026-04-02",
+     "units": 9,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "05941e513b29f5a7399a3c1771261a21c4847bf7726702ada4c1f96bd7125375"
+    },
+    {
+     "from": "2026-05-04",
+     "units": 12,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "db6858afd5acd41a31342edb3eeaf7950afc92f43aee4e402c8a31f227059e3f"
+    },
+    {
+     "from": "2026-06-02",
+     "units": 14,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "fe74cd8baf81d4794e8be79df69d9461595c3c8f09b36a5cf4f410bb70ecc6d5"
+    },
+    {
+     "from": "2026-07-14",
+     "units": 20,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "408a4e9a86ba1a1aca21a50ca150b7a1317252646cf3de87f7114c60118c922f"
+    },
+    {
+     "from": "2026-07-17",
+     "units": 21,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "6dd7149563908f1c599a26649d60d2088f6ec17ac881a0ec714cdfb22f09582b"
+    },
+    {
+     "from": "2026-10-17",
+     "units": 33,
+     "source_url": "http://publication.pravo.gov.ru/api/Documents?Block=region08",
+     "sha256": "7405b6305794e67d2111aa9d3e4186ef8fcd55f6d9329f44c63920100f8eb58f"
+    }
+   ]
+  }
+ ]
+}

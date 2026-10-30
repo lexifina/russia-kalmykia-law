@@ -1,0 +1,11 @@
+{
+  "path": "ru-kl",
+  "code": "RU-KL",
+  "name": "Republic of Kalmykia",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-kalmykia-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
