@@ -1,6 +1,6 @@
 # Republic of Kalmykia: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 8 versions, from 2026-03-02 (latest in force: 2026-10-17) · <http://publication.pravo.gov.ru/documents/block/region08>
+Законы 2026 · 9 versions, from 2026-03-02 (latest in force: 2026-11-23) · <http://publication.pravo.gov.ru/documents/block/region08>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -37,3 +37,17 @@
 | Закон № 141-VII-З | [141-vii-z.md](141-vii-z.md) | 1 | 2026-10-17 |
 | Закон № 142-VII-З | [142-vii-z.md](142-vii-z.md) | 1 | 2026-10-17 |
 | Закон № 143-VII-З | [143-vii-z.md](143-vii-z.md) | 1 | 2026-10-17 |
+| Закон № 144-VII-З | [144-vii-z.md](144-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 145-VII-З | [145-vii-z.md](145-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 146-VII-З | [146-vii-z.md](146-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 147-VII-З | [147-vii-z.md](147-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 148-VII-З | [148-vii-z.md](148-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 149-VII-З | [149-vii-z.md](149-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 150-VII-З | [150-vii-z.md](150-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 151-VII-З | [151-vii-z.md](151-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 152-VII-З | [152-vii-z.md](152-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 153-VII-З | [153-vii-z.md](153-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 154-VII-З | [154-vii-z.md](154-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 155-VII-З | [155-vii-z.md](155-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 156-VII-З | [156-vii-z.md](156-vii-z.md) | 1 | 2026-11-23 |
+| Закон № 157-VII-З | [157-vii-z.md](157-vii-z.md) | 1 | 2026-11-23 |
