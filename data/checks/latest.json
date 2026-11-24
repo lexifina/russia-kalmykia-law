@@ -1,0 +1,110 @@
+{
+ "generated": "2026-11-24T13:40:03Z",
+ "latest": {
+  "pravo-kalmykia|russia/kalmykia/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 661,
+    "current": 647,
+    "gone": 0,
+    "held": 647,
+    "newest_in_repo": "2026-10-17",
+    "pending": 14,
+    "repo": 647,
+    "source_in_scope": 661
+   },
+   "check_id": "ru-pravo-kalmykia-20261124T133922Z",
+   "commits": {
+    "count": 2,
+    "from": "375bcf48f83d5255add3477e92e556f127db98b3",
+    "to": "88a51111fa994316ac80eb39f64ea5f7a7876824"
+   },
+   "corpus": "russia/kalmykia/acts",
+   "error": null,
+   "finished": "2026-11-24T13:40:02Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region08: 661 law-type documents listed (every page read); 647 held here; 14 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "0800202611230002",
+     "0800202611230003",
+     "0800202611230004",
+     "0800202611230005",
+     "0800202611230006",
+     "0800202611230007",
+     "0800202611230008",
+     "0800202611230009",
+     "0800202611230010",
+     "0800202611230011",
+     "0800202611230012",
+     "0800202611230013",
+     "0800202611230014",
+     "0800202611230015"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 7,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "0800202611230002",
+     "0800202611230003",
+     "0800202611230004",
+     "0800202611230005",
+     "0800202611230006",
+     "0800202611230007",
+     "0800202611230008",
+     "0800202611230009",
+     "0800202611230010",
+     "0800202611230011",
+     "0800202611230012",
+     "0800202611230013",
+     "0800202611230014",
+     "0800202611230015"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "661 law-type documents in block region08; newest published 2026-11-23",
+   "source": "pravo-kalmykia",
+   "started": "2026-11-24T13:39:22Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 13,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 13,
+    "versions_checked": 100,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}

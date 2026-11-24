@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-kalmykia",
+   "kind": "legislation",
+   "name": {
+    "en": "Republic of Kalmykia: Official Internet Portal of Legal Information (region08)",
+    "ru": "Republic of Kalmykia: Официальный интернет-портал правовой информации (region08)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region08",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/kalmykia/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-kalmykia-law",
+   "group": "pravo",
+   "tz": "Europe/Moscow"
+  }
+ ]
+}
