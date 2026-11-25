@@ -6,8 +6,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Republic of Kalmykia: Official Internet Portal of Legal Information (region08) · `russia/kalmykia/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-24 13:40 UTC**.
-- Acts held here: 647; current at the source: 647; changed at the source since the version held here: 14; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-25 05:31 UTC**.
+- Acts held here: 661; current at the source: 661; changed at the source since the version held here: 0; no longer at the source: 0.
 - Not published: 0 (—); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.md). For programs: [data/checks/latest.json](data/checks/latest.json).

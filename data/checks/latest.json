@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T13:40:03Z",
+ "generated": "2026-11-25T06:59:19Z",
  "latest": {
   "pravo-kalmykia|russia/kalmykia/acts": {
    "attempt": 1,
@@ -13,44 +13,25 @@
    },
    "census": {
     "checked": 661,
-    "current": 647,
+    "current": 661,
     "gone": 0,
-    "held": 647,
-    "newest_in_repo": "2026-10-17",
-    "pending": 14,
-    "repo": 647,
+    "held": 661,
+    "newest_in_repo": "2026-11-23",
+    "pending": 0,
+    "repo": 661,
     "source_in_scope": 661
    },
-   "check_id": "ru-pravo-kalmykia-20261124T133922Z",
-   "commits": {
-    "count": 2,
-    "from": "375bcf48f83d5255add3477e92e556f127db98b3",
-    "to": "88a51111fa994316ac80eb39f64ea5f7a7876824"
-   },
+   "check_id": "ru-pravo-kalmykia-20261125T053125Z",
+   "commits": null,
    "corpus": "russia/kalmykia/acts",
    "error": null,
-   "finished": "2026-11-24T13:40:02Z",
+   "finished": "2026-11-25T05:31:48Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region08: 661 law-type documents listed (every page read); 647 held here; 14 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region08: 661 law-type documents listed (every page read); 661 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "0800202611230002",
-     "0800202611230003",
-     "0800202611230004",
-     "0800202611230005",
-     "0800202611230006",
-     "0800202611230007",
-     "0800202611230008",
-     "0800202611230009",
-     "0800202611230010",
-     "0800202611230011",
-     "0800202611230012",
-     "0800202611230013",
-     "0800202611230014",
-     "0800202611230015"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -58,41 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "0800202611230002",
-     "0800202611230003",
-     "0800202611230004",
-     "0800202611230005",
-     "0800202611230006",
-     "0800202611230007",
-     "0800202611230008",
-     "0800202611230009",
-     "0800202611230010",
-     "0800202611230011",
-     "0800202611230012",
-     "0800202611230013",
-     "0800202611230014",
-     "0800202611230015"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "661 law-type documents in block region08; newest published 2026-11-23",
    "source": "pravo-kalmykia",
-   "started": "2026-11-24T13:39:22Z",
+   "started": "2026-11-25T05:31:25Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
