@@ -4,18 +4,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Republic of Kalmykia only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-26 05:28 UTC, Republic of Kalmykia: Official Internet Portal of Legal Information (region08): 7 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
+**Last check:** 2026-11-27 05:23 UTC, Republic of Kalmykia: Official Internet Portal of Legal Information (region08): 7 addresses read; 0 added, 0 changed, 0 removed; no change; 0 not published, 0 of them with no reason.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [Republic of Kalmykia: Official Internet Portal of Legal Information (region08)](http://publication.pravo.gov.ru/documents/block/region08) | `zakony-<year>/` | daily | 2026-11-26 05:28 UTC | no change | watched |
+| [Republic of Kalmykia: Official Internet Portal of Legal Information (region08)](http://publication.pravo.gov.ru/documents/block/region08) | `zakony-<year>/` | daily | 2026-11-27 05:23 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-27 05:23](checks/2026-11.md#ru-pravo-kalmykia-20261127t052332z) | pravo-kalmykia | 7 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-26 05:28](checks/2026-11.md#ru-pravo-kalmykia-20261126t052810z) | pravo-kalmykia | 7 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-25 05:31](checks/2026-11.md#ru-pravo-kalmykia-20261125t053125z) | pravo-kalmykia | 7 | 0 | 0 | 0 | 0 (0) | no change | — |
 | [2026-11-24 13:39](checks/2026-11.md#ru-pravo-kalmykia-20261124t133922z) | pravo-kalmykia | 7 | 14 | 0 | 0 | 0 (0) | changes found | [2](https://github.com/lexifina/russia-kalmykia-law/compare/375bcf48f83d...88a51111fa99) |
