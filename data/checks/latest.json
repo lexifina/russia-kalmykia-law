@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-27T06:08:51Z",
+ "generated": "2026-11-28T06:23:10Z",
  "latest": {
   "pravo-kalmykia|russia/kalmykia/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 661,
     "source_in_scope": 661
    },
-   "check_id": "ru-pravo-kalmykia-20261127T052332Z",
+   "check_id": "ru-pravo-kalmykia-20261128T053231Z",
    "commits": null,
    "corpus": "russia/kalmykia/acts",
    "error": null,
-   "finished": "2026-11-27T05:23:55Z",
+   "finished": "2026-11-28T05:32:55Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region08: 661 law-type documents listed (every page read); 661 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "661 law-type documents in block region08; newest published 2026-11-23",
    "source": "pravo-kalmykia",
-   "started": "2026-11-27T05:23:32Z",
+   "started": "2026-11-28T05:32:31Z",
    "unexplained": 0,
    "update": {
     "parts": []
